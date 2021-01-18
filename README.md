@@ -8,7 +8,7 @@ Running programs as adminstrator, or root, using the `sudo` command can compromi
 
 ## Intent
 
-Demonstrate how a trojan horse can take advantage of "sudo all things" in order to capture an adminstrator password.
+Demonstrate how a trojan horse can exploit "sudo all things" in order to capture an adminstrator password.
 
 ## Goal
 
