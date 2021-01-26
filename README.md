@@ -16,4 +16,4 @@ Reinforce security intuition when executing a command as an administrator.
 
 ## License
 
-MIT
+[MIT](LICENSE)
